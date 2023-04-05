@@ -9,7 +9,7 @@ This Repository contains code for data collection which is required to train Emb
 1. On push checkout the code and create docker container on git-hub server.
 2. Push the image to Ecr with production tag 
 3. Once action push is completed pull and run the image on Ec2 instance.
-![image](https://user-images.githubusercontent.com/40850370/189590432-7009c484-dcd6-4de4-8861-dd93d5eb1572.png)
+![Screenshot](image.png)
 
 ## Git-hub Configurations
 ```text
